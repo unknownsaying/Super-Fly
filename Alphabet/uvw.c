@@ -4,7 +4,7 @@ void uvw(){
   char ww;
 }
 int t9{
-   function t5(){
+   function t9(){
    int131072_t
    pow(ww + u)
    int262144_t
@@ -16,7 +16,7 @@ int t9{
 }
 }
 int t10{
-   function t6(){
+   function t10(){
    int1048576_t
    pow(ww - u)
    in524288_t
