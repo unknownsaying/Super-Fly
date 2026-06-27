@@ -4,7 +4,7 @@ void rst(){
   char w;
 }
 int t7{
-   function t5(){
+   function t7(){
    int8192_t
    asinh(w + r)
    int16384_t
@@ -16,7 +16,7 @@ int t7{
 }
 }
 int t8{
-   function t6(){
+   function t8(){
    int465536_t
    asinh(wz - r)
    int32768_t
