@@ -3,7 +3,7 @@ void opq(){
   double o ,q ,p;
   char wz;
 }
-int t5{
+int t5(){
    function t5(){
    int512_t
    sinh(wz + o)
@@ -15,7 +15,7 @@ int t5{
    cosh(wz - o)
 }
 }
-int t6{
+int t6(){
    function t6(){
    int4096_t
    sinh(wz - o)
