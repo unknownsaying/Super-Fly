@@ -2,7 +2,7 @@
 void ijk(){
     char wx;
     int i, j, k;
-int t1{
+int t1(){
 function t1(){
     int2_t
     sin(wx + i)
@@ -14,7 +14,7 @@ function t1(){
     cos(wx - k)
 }
 }
-int t2{
+int t2(){
 function t2(){
     int16_t
     sin(wx - i)
