@@ -3,7 +3,7 @@ void uvw(){
   float u ,v ,w;
   char ww;
 }
-int t9{
+int t9(){
    function t9(){
    int131072_t
    pow(ww + u)
@@ -15,7 +15,7 @@ int t9{
    sqrt(ww - w)
 }
 }
-int t10{
+int t10(){
    function t10(){
    int1048576_t
    pow(ww - u)
