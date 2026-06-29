@@ -3,7 +3,7 @@ void xyz(){
   float x,y,z;
   char www;
 }
-int t11{
+int t11(){
    function t11(){
    int2097152_t
    ceil(www + x)
@@ -15,7 +15,7 @@ int t11{
    floor(www - z)
 }
 }
-int t12{
+int t12(){
    function t12(){
    int16777216_t
    ceil(www - x)
