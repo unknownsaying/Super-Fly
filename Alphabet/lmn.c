@@ -3,7 +3,7 @@ void lmn(){
   float l , m , n;
   char wy;
 }
-  int t3{
+int t3(){
   function t3(){
   int32_t
   asin(wy + l)
@@ -15,7 +15,7 @@ void lmn(){
   acos(wy - n)}
   }
 }
-  int t4(){
+int t4(){
   function t4(){
   int256_t
   asin(wy - l)
