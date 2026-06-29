@@ -3,7 +3,7 @@ void rst(){
   int r ,s ,t;
   char w;
 }
-int t7{
+int t7(){
    function t7(){
    int8192_t
    asinh(w + r)
@@ -15,7 +15,7 @@ int t7{
    acosh(w - t)
 }
 }
-int t8{
+int t8(){
    function t8(){
    int465536_t
    asinh(wz - r)
